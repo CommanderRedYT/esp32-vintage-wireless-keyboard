@@ -1,0 +1,6 @@
+[submodule "lib/ESP32-BLE-Keyboard"]
+	path = lib/ESP32-BLE-Keyboard
+	url = git@github.com:T-vK/ESP32-BLE-Keyboard
+[submodule "lib/PS2Keyboard"]
+	path = lib/PS2Keyboard
+	url = git@github.com:CommanderRedYT/PS2Keyboard.git
